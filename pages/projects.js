@@ -25,7 +25,7 @@ const Projects = () => {
                 <SimpleGrid columns={[1,2,3]} gap={5} alignItems="baseline">
                     <Area>
                         <ProjectGridItem id="ascendium" title="Ascendium" thumbnail={thumbAscendium}>
-                            Ascendium Education Group is the nation’s largest federal student loan guarantor, a leading postsecondary education philanthropy and a provider of student success services for postsecondary institutions.
+                            Ascendium Education Group is the nation&apos;s largest federal student loan guarantor, a leading postsecondary education philanthropy and a provider of student success services for postsecondary institutions.
                         </ProjectGridItem>
                     </Area>
                     <Area>
@@ -45,17 +45,17 @@ const Projects = () => {
                     </Area>
                     <Area delay={0.2}>
                         <ProjectGridItem id="berkeley" title="Berekley Lab Computing Sciences" thumbnail={thumbBerkeley}>
-                            The Berkeley Lab's Computing Sciences was created to advance computational science throughout the U.S. Department of Energy's Office of Science research programs
+                            The Berkeley Lab&apos;s Computing Sciences was created to advance computational science throughout the U.S. Department of Energy&apos;s Office of Science research programs
                         </ProjectGridItem>
                     </Area>
                     <Area delay={0.2}>
                         <ProjectGridItem id="toiletseats" title="Toiletseats.com" thumbnail={thumbToiletseats}>
-                            Bemis Manufacturing's site to view it's large selection of toilet seats and shop by toilet seat shapes, features and colors.
+                            Bemis Manufacturing&apos;s site to view it&apos;s large selection of toilet seats and shop by toilet seat shapes, features and colors.
                         </ProjectGridItem>
                     </Area>
                     <Area delay={0.3}>
                         <ProjectGridItem id="nettechnology" title="Network Engineering Technologies" thumbnail={thumbNET}>
-                            NET is your leading edge technology services company, serving North America's top companies, including Fortune 500 organizations and the world's largest superstore.
+                            NET is your leading edge technology services company, serving North America&apos;s top companies, including Fortune 500 organizations and the world&apos;s largest superstore.
                         </ProjectGridItem>
                     </Area>
                     <Area delay={0.3}>
@@ -75,7 +75,7 @@ const Projects = () => {
                     </Area>
                     <Area delay={0.4}>
                         <ProjectGridItem id="healthysheboygan" title="Healthy Sheboygan County" thumbnail={thumbHealthySheboygan}>
-                            Healthy Sheboygan County is working to improve the health of the people of Sheboygan County, leading to a community with "Everyone Living Better, Longer."
+                            Healthy Sheboygan County is working to improve the health of the people of Sheboygan County, leading to a community with &quot;Everyone Living Better, Longer.&quot;
                         </ProjectGridItem>
                     </Area>
                 </SimpleGrid>

@@ -12,7 +12,7 @@ import Layout from '../../components/layouts/layout';
         </Title>
         <P>
             Lakeshore Technical College (LTC) requested a web redesign project that entails review of the current web architecture and security, 
-            as well as marketing and content requirements. Project highlights include President's blog/newsletter sign-up, Program pages being a printable flyer that is graphically inclined,
+            as well as marketing and content requirements. Project highlights include President&apos;s blog/newsletter sign-up, Program pages being a printable flyer that is graphically inclined,
             improve UX experience on Career Pathways and Career Clusters pages.
         </P>
         <List ml={4} my={4}>
@@ -38,7 +38,7 @@ import Layout from '../../components/layouts/layout';
           <ListItem>
             <Meta>Custom Features</Meta>
             <div>Career Pathways</div>
-            <div>President's Blog</div>
+            <div>President&apos;s Blog</div>
             <div>Newsletter Sign-up</div>
             <div>Career Clusters</div>
             <div>Google Translate Installation</div>
