@@ -31,12 +31,16 @@ const Page = () => {
                         About Me
                     </Heading>
                     <Paragraph>
-                        My name is Daniel Ledezma and I am a Web Applications Developer working at
-                        at {''}
+                        My name is Daniel Ledezma and I am a Web Applications Developer working
+                        in the {''}
                         <Link as={NextLink} href="https://www.northwestern.edu/global-marketing-communications/" passHref scroll={false} target="_blank">
-                           Global Marketing and Communications department
+                           Global Marketing and Communications 
                         </Link>
-                        at Northwestern University. I am an avid <Tooltip display={{ lg: 'flex'}} label='A user of the Internet, especially a habitual or skilled one.'><Button maxHeight="20px" >Internaut</Button></Tooltip> specializing in transforming ideas into exceptional digital experiences.
+                        {''} department at {''}
+                        <Link as={NextLink} href="https://www.northwestern.edu/" passHref scroll={false} target="_blank">
+                           Northwestern University
+                        </Link>
+                        . I am an avid <Tooltip display={{ lg: 'flex'}} label='A user of the Internet, especially a habitual or skilled one.'><Button maxHeight="20px" >Internaut</Button></Tooltip> specializing in transforming ideas into exceptional digital experiences.
                     </Paragraph>
                     <Box align="center" my={4}>
                         <Link as={NextLink} href="/projects" >
