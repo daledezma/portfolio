@@ -11,8 +11,7 @@ import Layout from '../../components/layouts/layout';
           Someplace Better
         </Title>
         <P>
-        Newly Rebranded Website created To support talent decision making in the relocation process by helping them make informed life choices 
-        while inspiring a sense of belonging due to Sheboygan County being a desirable place to work, live, play, raise family and simply have and do more.
+        Developed newly rebranded website to support talent decision making in the relocation process by inspiring a sense of belonging in Sheboygan County.
         </P>
         <List ml={4} my={4}>
           <ListItem>

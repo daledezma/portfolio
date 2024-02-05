@@ -11,7 +11,7 @@ import Layout from '../../components/layouts/layout';
           Net Technology
         </Title>
         <P>
-            Net Technology (KW2) redesigned the front end of NET and handed over design files for template adjustments.
+            Developed new site in Silverstripe for Net Technology (KW2) with design files provided through Invision by KW2.
         </P>
         <List ml={4} my={4}>
           <ListItem>

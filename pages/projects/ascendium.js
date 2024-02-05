@@ -11,10 +11,10 @@ import Layout from '../../components/layouts/layout';
           Ascendium Education Group 
         </Title>
         <P>
-        Ascendiumeducation.org - they wanted to move their Corporate site which was previously on HubSpot.<br />
+        The Ascendium Education team wanted to move their Corporate site out of the HubSpot platform and into Silverstripe.<br />
         Consulted with Ascendium on the Information Architecture (IA) to help assess what page types and content will be most beneficial to the new Silverstripe site. <br />
-        Migrated the current website content to the new Silverstripe website along with the configuration of the server and hosting set up.  <br />
-        Programed new pages in Silverstripe based on the new design look and copy provided by Ascendium.
+        Migrated website content into Silverstripe along with configuring server and hosting.  <br />
+        Developed new page types in Silverstripe based design files and copy provided by Ascendium.
         </P>
         <List ml={4} my={4}>
           <ListItem>

@@ -11,8 +11,8 @@ import Layout from '../../components/layouts/layout';
           Wisconsin Technical College Systems
         </Title>
         <P>
-            Code adjustments and updates created on KW2&apos;s wtcsystem.org site. Led project to transition Newsletter &apos;WTCS In Brief&apos; from HubSpot to annative integration on site allowing for styled
-            newsletters to be printed from the CMS. Integrated Google Translate on site.
+            Developed  KW2&apos;s wtcsystem.org site. Transitioned the KW2 Newsletter &apos;WTCS In Brief&apos; from HubSpot and integrated on site allowing for styled
+            newsletters to be printed from the CMS along with implementing Google Translate on site for second language users.
         </P>
         <List ml={4} my={4}>
           <ListItem>

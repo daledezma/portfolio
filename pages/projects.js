@@ -29,13 +29,18 @@ const Projects = () => {
                         </ProjectGridItem>
                     </Area>
                     <Area>
-                        <ProjectGridItem id="someplacebetter" title="Someplace Better" thumbnail={thumbSomeplacebetter}>
-                            Newly created Sheboygan County website which goes into detail about the many positive aspects of life in Sheboygan County — businesses and job openings, schools, parks, neighborhoods and housing, health care, shopping, arts and culture and much more.
+                        <ProjectGridItem id="sargento" title="Sargento Foods" thumbnail={thumbSargento}>
+                            Sargento Foods Inc. is an American food producer best known for its cheese.
+                        </ProjectGridItem>
+                    </Area>
+                    <Area delay={0.2}>
+                        <ProjectGridItem id="toiletseats" title="Toiletseats.com" thumbnail={thumbToiletseats}>
+                            Bemis Manufacturing&apos;s site to view it&apos;s large selection of toilet seats and shop by toilet seat shapes, features and colors.
                         </ProjectGridItem>
                     </Area>
                     <Area>
-                        <ProjectGridItem id="sargento" title="Sargento Foods" thumbnail={thumbSargento}>
-                            Sargento Foods Inc. is an American food producer best known for its cheese.
+                        <ProjectGridItem id="someplacebetter" title="Someplace Better" thumbnail={thumbSomeplacebetter}>
+                            Newly created Sheboygan County website which goes into detail about the many positive aspects of life in Sheboygan County — businesses and job openings, schools, parks, neighborhoods and housing, health care, shopping, arts and culture and much more.
                         </ProjectGridItem>
                     </Area>
                     <Area delay={0.2}>
@@ -46,11 +51,6 @@ const Projects = () => {
                     <Area delay={0.2}>
                         <ProjectGridItem id="berkeley" title="Berekley Lab Computing Sciences" thumbnail={thumbBerkeley}>
                             The Berkeley Lab&apos;s Computing Sciences was created to advance computational science throughout the U.S. Department of Energy&apos;s Office of Science research programs
-                        </ProjectGridItem>
-                    </Area>
-                    <Area delay={0.2}>
-                        <ProjectGridItem id="toiletseats" title="Toiletseats.com" thumbnail={thumbToiletseats}>
-                            Bemis Manufacturing&apos;s site to view it&apos;s large selection of toilet seats and shop by toilet seat shapes, features and colors.
                         </ProjectGridItem>
                     </Area>
                     <Area delay={0.3}>

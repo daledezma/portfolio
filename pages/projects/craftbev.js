@@ -11,7 +11,8 @@ import Layout from '../../components/layouts/layout';
           Craft Beverage Warehouse
         </Title>
         <P>
-
+        Developed new Craft Beverage Warehouse site and moved from Hubspot to Silverstripe. Utilized Three.js to allow for uploadable artwork and can rendering to allow users to see a rotatable
+        3D rendering of their artwork.
         </P>
         <List ml={4} my={4}>
           <ListItem>

@@ -11,8 +11,8 @@ import Layout from '../../components/layouts/layout';
           Sargento
         </Title>
         <P>
-            A variety of website refresh updates added including addition of Hispanic landing pages and toggle translation, navigation & updating menu organization on the existing website into Mega Navigation,
-            Blog redesign, Tiktok video integration on Hispanic Landing page.
+            A variety of website updates including addition of Hispanic landing pages with translated copy feature in Silverstripe, updating navigation and menu organization,
+            developing Sargento blog, integrating Sargento branded tiktok video content within Silverstripe.
         </P>
         <List ml={4} my={4}>
           <ListItem>
@@ -44,7 +44,6 @@ import Layout from '../../components/layouts/layout';
   
         <ProjectImage src="/images/projects/sargento_latincuisinepage.png" alt="Sargento Latin Cuisine Page Screen Capture" />
         <ProjectImage src="/images/projects/sargento_megamenu.png" alt="Sargento MegaMenu Screenshot" />
-        <ProjectImage src="/images/projects/sargento_mobilemegamenu.png" alt="Sargento Mobile Hamburger Menu Screenshot" />
         <ProjectImage src="/images/projects/sargento_blogpage.png" alt="Sargento Blog Page Screenshot" />
       </Container>
     </Layout>

@@ -8,7 +8,7 @@ import Layout from '../../components/layouts/layout';
     <Layout title="Toilet Seats">
       <Container maxW="container.lg">
         <Title>
-          Toiletseats.com
+          Bemis Toilet Seats
         </Title>
         <P>
 

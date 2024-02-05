@@ -11,12 +11,12 @@ import Layout from '../../components/layouts/layout';
           Healthy Sheboygan County
         </Title>
         <P>
-            Full Website Rebuild
+            Developed new site to help promote healthy living within Sheboygan County.
         </P>
         <List ml={4} my={4}>
           <ListItem>
             <Meta>Website</Meta>
-            <Link href="https://www.healthysheboygancounty.org/">
+            <Link href="http://www.healthysheboygancounty.org/">
               https://www.healthysheboygancounty.org/ <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>

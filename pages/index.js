@@ -18,7 +18,7 @@ const Page = () => {
                         <Heading as="h1" variant="page-title">
                             Daniel Ledezma
                         </Heading>
-                        <p>Front-End Web Developer</p>
+                        <p>Web Applications Developer</p>
                     </Box>
                     <Box mt={{ base:4, lg: 4 }} ml={{ md:6 }} align="center">
                         <Image borderColor="whiteAlpha.900" borderWidth={3} borderStyle="solid" maxWidth="120px" display="inline-block" borderRadius="full" 
@@ -31,12 +31,12 @@ const Page = () => {
                         About Me
                     </Heading>
                     <Paragraph>
-                        My name is Daniel Ledezma and currently I live in Milwaukee working as the Lead Frontend Developer
+                        My name is Daniel Ledezma and I am a Web Applications Developer working at
                         at {''}
-                        <Link as={NextLink} href="https://www.dynamicagency.com/" passHref scroll={false} target="_blank">
-                            Dynamic Agency
+                        <Link as={NextLink} href="https://www.northwestern.edu/global-marketing-communications/" passHref scroll={false} target="_blank">
+                           Global Marketing and Communications department
                         </Link>
-                        . I am an avid <Tooltip display={{ lg: 'flex'}} label='A user of the Internet, especially a habitual or skilled one.'><Button maxHeight="20px" >Internaut</Button></Tooltip> specializing in transforming ideas into exceptional digital experiences.
+                        at Northwestern University. I am an avid <Tooltip display={{ lg: 'flex'}} label='A user of the Internet, especially a habitual or skilled one.'><Button maxHeight="20px" >Internaut</Button></Tooltip> specializing in transforming ideas into exceptional digital experiences.
                     </Paragraph>
                     <Box align="center" my={4}>
                         <Link as={NextLink} href="/projects" >
@@ -51,11 +51,11 @@ const Page = () => {
                     <Heading as="h3" variant="section-title">
                         Things I  ♥
                     </Heading>
-                    <Paragraph> Horror Movies, Powerlifting, {' '}
+                    <Paragraph> Photography, Powerlifting, {' '}
                     <Link href="https://importperformancerepair.com/" target="_blank">
                         Cars
                     </Link>
-                    , Photography
+                    , Videography
                     </Paragraph>
                 </Area>
 
